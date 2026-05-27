@@ -290,7 +290,7 @@ class BlueTemplate extends TemplateBase {
             <div class="hero-overlay"></div>
             <div class="hero-content">
               <span class="hero-category">Bienvenido</span>
-              <h2 class="hero-title">Radio Pulse</h2>
+              <h2 class="hero-title">Radio Muevete</h2>
               <p class="hero-description">Tu radio online las 24 horas</p>
             </div>
           </div>
